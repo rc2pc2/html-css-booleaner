@@ -1,0 +1,13 @@
+header{
+    background-color: aqua;
+    height: 130px;
+
+    background-color: #4e9ffe;
+    background-image: url('../img/pattern.png');
+    background-size: 32%;
+}
+
+.main-logo{
+    /* margin-top: 50px; */
+    height: 70px;
+}
