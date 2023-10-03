@@ -12,7 +12,6 @@ table{
 }
 
 thead{
-    color: white;
     background-color: #20a8e4;
 }
 
@@ -29,6 +28,10 @@ thead{
     color: #25aae4;
 }
 
+.font-color-white{
+    color: white;
+}
+
 .caption{
     font-size: .8rem;
 }
@@ -43,4 +46,19 @@ thead{
 
 .bg-light-blue{
     background-color: #b0e4f1;
+}
+
+.footer-image{
+    height: 200px;
+    width: 270px;
+    /* border: 5px solid blue; */
+}
+
+#image-monitor{
+    background-image: url('../img/monitor.jpg');
+}
+
+
+#image-graph{
+    background-image: url('../img/graph.jpg');
 }
